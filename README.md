@@ -1,20 +1,19 @@
 # InvinciBagel
 
-JavaFX 8.0 Game built alongside a basic game engine framework
+	JavaFX 8.0 Game built alongside a basic game engine framework
 
 
-!!! Please take your time to read this + the other .md files. I must confess that I AM NOT GOOD AT WRITING DOCUMENTATION - although I have good ideas during development, when coming to "write my post-work journal" I don't get it at expected (my ideas / inspiration stuck ...). 
-In other order of ideas, my write-style is funny, I ascertain, so you will BENEFIT from READING MY DOCS !!!
+- [x] !!! Please take your time to read this + the other .md files. I must confess that I AM NOT GOOD AT WRITING DOCUMENTATION - although I have good ideas during development, when coming to "write my post-work journal" I don't get it at expected (my ideas / inspiration stuck ...). In other order of ideas, my write-style is funny, I ascertain, so you will BENEFIT from READING MY DOCS !!!
 
 
 ### (Legal) Notice [...]
 
-	This project is based on the one presented along my reading of the book "Beginning Java 8 Games Development" by Wallace Jackson - published by Apress (2014). I HAVE MADE REFINEMENTS, that means engineered the code to be more optimized / original, else the structure remains the same to that of the authors you can find in the Legal Menu of my Application !
+This project is based on the one presented along my reading of the book "Beginning Java 8 Games Development" by Wallace Jackson - published by Apress (2014). I HAVE MADE REFINEMENTS, that means engineered the code to be more optimized / original, else the structure remains the same to that of the authors you can find in the Legal Menu of my Application !
 
 
 ### What makes this Repo' different ?
 
-	In what equals to 1346 lines of code lies a minimal game engine which can at any time be reused and moreover developed further. Essential is the fact that a game - InvinciBagel- is already built on top of it to demonstrate basic capabilities. This Java 8 "structure" considers memory and processor overhead optimizations wherever possible, more precisely :
+In what equals to 1346 lines of code lies a minimal game engine which can at any time be reused and moreover developed further. Essential is the fact that a game - InvinciBagel- is already built on top of it to demonstrate basic capabilities. This Java 8 "structure" considers memory and processor overhead optimizations wherever possible, more precisely :
 * Scene Graph "population" is minimal : I reused Node objects whenever possible, mostly for UI objects - whose only Sprite Objects i re-refferenced to display other images, and changed their Z-index to maintain consistency
 * Assets are optimized to minimum memory usage, but optimal quality preserved is considered - equilibrium principle ...
 * Various Code-Engineering optimizations are applied where my knowledge (though mostly intuition) allowed me to !
