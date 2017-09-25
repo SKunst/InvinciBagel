@@ -3,7 +3,7 @@
 	JavaFX 8.0 Game built alongside a basic game engine framework
 
 
-- [x] !!! Please take your time to read this + the other .md files. I must confess that I AM NOT GOOD AT WRITING DOCUMENTATION - although I have good ideas during development, when coming to "write my post-work journal" I don't get it at expected (my ideas / inspiration stuck ...). In other order of ideas, my write-style is funny, I ascertain, so you will BENEFIT from READING MY DOCS !!!
+- [x] :point_up: Please take your time to read this + the other .md files. I must confess that I AM NOT GOOD AT WRITING DOCUMENTATION - although I have good ideas during development, when coming to "write my post-work journal" I don't get it at expected (my ideas / inspiration stuck ...). In other order of ideas, my write-style is funny, I ascertain, so you will BENEFIT from READING MY DOCS :point_up:
 
 
 ### (Legal) Notice [...]
@@ -24,4 +24,4 @@ In what equals to 1346 lines of code lies a minimal game engine which can at any
 * The book, which and also the repository you are viewing can't be described better than with the author's own ending words : 
 > I’ve tried to go beyond a basic beginner Java 8 book and show you the work process involved in creating a game engine infrastructure, including the design thought process, how to leverage key classes in Java 8 and JavaFX 8.0, and how to use new media assets and optimization techniques. 
 
-* (The author &)All the personnel that made this book "magically" appear at my disposal - and that merrily condemned my last month of Summer University Holiday [and probably the most part of my life, at least till retirement >D]
+* (The author &)All the personnel that made this book "magically" appear at my disposal - and that merrily condemned my last month of Summer University Holiday (and probably the most part of my life, at least till retirement :smirk:) -
